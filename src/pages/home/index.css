@@ -1,0 +1,51 @@
+.container-home{
+    height:489px;
+}
+
+.home-header {
+    color: #a0a0a0;
+    padding: 20px 0 20px 0;   
+    position: relative;
+    left: 140px;
+    margin-top:12px;
+}
+
+
+.link-cart {
+    background-color: #000;
+    color:white;
+    width: 200px;
+    padding: 4px;
+    text-decoration: none;
+    font-size: 14pt;
+    border-radius: 15px;
+}
+
+
+.list-lanches{
+    display: flex;
+    font-size:  13pt;
+    border-radius: 15px;
+}
+.list-row {
+    color: #000;
+    text-align: center;
+    
+    font-weight: bold;
+    font-size: 14pt;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px black;
+    position:relative;
+    left: 140px;
+    margin-right: 20px;
+   
+}
+.list-button {
+    cursor: pointer;
+    height: 40px;
+    font-size: 14pt;
+    color: #FFF;
+    border: 1px solid #000;
+    background-color:#5ce1e6
+}
